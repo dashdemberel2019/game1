@@ -1,6 +1,6 @@
 # Memory Game Project
 
-##Гарчиг
+## Гарчиг
 
 - [Instructions](#instructions)
 - [Contributing](#contributing)
